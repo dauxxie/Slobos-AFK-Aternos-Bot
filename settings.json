@@ -6,13 +6,12 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dauxxieSMP.aternos.me",
-    "port": 42401,
-    "version": "1.21.11",
+    "ip": "dauxxiesmp.aternos.me",
+    "version": false,
     "try-creative": true
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
