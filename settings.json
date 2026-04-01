@@ -1,13 +1,13 @@
 {
   "name": "DauxxieSMP-AFKbot",
   "bot-account": {
-    "username": "DauxxieSMP-AFKbot",
+    "username": "",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "dauxxieSMP.aternos.me",
-    "version": false,
+    "ip": "dauxxieSMP.aternos.me:42401",
+    "version": 1.21.11,
     "try-creative": true
   },
   "position": {
