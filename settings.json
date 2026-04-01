@@ -1,7 +1,7 @@
 {
   "name": "DauxxieSMP-AFKbot",
   "bot-account": {
-    "username": "",
+    "username": "serverAFKbot",
     "password": "",
     "type": "offline"
   },
