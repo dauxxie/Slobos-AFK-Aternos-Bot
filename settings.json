@@ -25,11 +25,7 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-    },
-    
-      
-    },
-    
+    }
   },
   "movement": {
     "enabled": true,
@@ -37,5 +33,6 @@
       "enabled": true,
       "radius": 4,
       "speed": 3000
-    },
+    }
+  }
 }
